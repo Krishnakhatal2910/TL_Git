@@ -14,6 +14,11 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class OpenBrowser {
 
 	private static final Cookie Cookie = null;
+	
+	
+	public void demo() {
+		System.out.println("Hi all");
+	}
 
 	public static void main(String[] args) throws InterruptedException {
 
